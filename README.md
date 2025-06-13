@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shoryamishra65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b9EedNH8rXY46e2UxhXRc02T7TLSBNgx/view?usp=sharing](https://drive.google.com/file/d/1b9EedNH8rXY46e2UxhXRc02T7TLSBNgx/view?usp=sharing)
+- 📄 Know more about me --  [My resume](https://drive.google.com/file/d/1b9EedNH8rXY46e2UxhXRc02T7TLSBNgx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
