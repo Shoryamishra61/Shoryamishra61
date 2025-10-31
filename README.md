@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/smishra61" target="blank"><img src="https://img.shields.io/twitter/follow/smishra61?logo=twitter&style=for-the-badge" alt="smishra61" /></a> </p>
 
-- 🔭 I’m currently working on **Ai-ml tech mostly in python integrating with tensorflow , scikit-learn , pytorch ,rtc**
+- 🔭 I’m currently working on **Ai-ml tech mostly in python integrating with tensorflow , scikit-learn , pytorch ,etc**
 
 - 🌱 I’m currently learning **pycharm , react , node and express.js**
 
