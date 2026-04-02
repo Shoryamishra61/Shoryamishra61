@@ -1,29 +1,152 @@
-<h1 align="center">Hi 👋, I'm Shoryakumar Mishra</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/smishra61" target="blank"><img src="https://img.shields.io/twitter/follow/smishra61?logo=twitter&style=for-the-badge" alt="smishra61" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1C1C2E,100:0D1117&height=200&section=header&text=Shoryakumar%20Mishra&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Apple%20Swift%20Student%20Challenge%20Winner&descAlignY=58&descSize=16&descColor=A8B2D8" />
 
-- 🔭 I’m currently working on **Ai-ml tech mostly in python integrating with tensorflow , scikit-learn , pytorch ,etc**
+</div>
 
-- 🌱 I’m currently learning **pycharm , react , node and express.js**
+---
 
-- 📫 How to reach me **shoryamishra65@gmail.com**
+<div align="center">
 
-- 📄 Know more about me --  [My resume](https://drive.google.com/file/d/1b9EedNH8rXY46e2UxhXRc02T7TLSBNgx/view?usp=sharing)
+### 🏆 Apple Swift Student Challenge 2026 — Global Winner
+**Selected among ~350 winners worldwide** · Evaluated by Apple engineers for UI/UX, technical innovation & code quality
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smishra61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smishra61" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoryakumar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoryakumar-mishra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/holy_wombat_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="holy_wombat_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sm7078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sm7078" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mishrashorya61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mishrashorya61" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mishrashorya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishrashorya" height="30" width="40" /></a>
-</p>
+[![Swift Student Challenge](https://img.shields.io/badge/Apple_Swift_Student_Challenge-2026_Winner-black?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/swift/playgrounds/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoryamishra61&show_icons=true&locale=en&layout=compact" alt="shoryamishra61" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoryamishra61&" alt="shoryamishra61" /></p>
+```
+> Building at the intersection of iOS, AI, and human experience.
+> From AirPods-powered posture detection to lung cancer classification —
+> I ship things that matter.
+```
+
+---
+
+## 👨‍💻 About Me
+
+- 🍎 **iOS App Developer Intern** @ Infosys × Apple iOS Dev Center, SRMIST — top 4% of 2,000+ applicants
+- 🤖 **AI/ML Engineer Intern** @ Infosys Springboard — production ML pipelines & computer vision
+- 🎓 **B.Tech CSE** @ SRM Institute of Science and Technology, Chennai (2023–2027)
+- 🏅 **Smart India Hackathon 2024** — National Participant
+- 🦾 Currently building: production-grade iOS apps + deep learning systems
+- 📫 Reach me: **shoryamishra65@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 iOS & Mobile
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 AI / ML / DL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### ☁️ Cloud & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🖥 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🍎 AXIS — Neck Posture Management App · *Apple Swift Student Challenge 2026 Winner*
+> **SwiftUI · HeadphoneMotionManager · CoreMotion · SwiftData**
+
+Real-time neck posture detection using **AirPods sensor data** (3-axis head orientation). Delivers live haptic/visual alerts and guided exercise sequences with motion-validated reps — **fully on-device, zero network latency**. Recognised by Apple among ~350 global winners for SwiftUI fluency and novel sensor API usage.
+
+---
+
+### 🚗 Fleet Management System — Infosys · *Top 5 Company-Wide*
+> **SwiftUI · REST APIs · Firebase · MVC Architecture**
+
+Full-featured fleet operations app with real-time vehicle tracking, driver assignment workflows, and route optimisation. Ranked **top 5 across all intern project submissions** at Infosys — praised for architecture, UI consistency, and feature depth. Shipped 3 production-ready features in a single sprint with **zero post-release defects**.
+
+---
+
+### 🛸 Eva Guardian — Space Station Object Detection
+> **YOLOv8 · PyTorch · OpenCV · Python**
+
+Trained a YOLOv8 model on a custom-annotated space station dataset achieving **94% mAP**. Deployed a modular confidence-threshold-configurable inference pipeline for real-time astronaut safety workflows.
+
+---
+
+### 🫁 OncoVision — Lung Cancer Detection
+> **TensorFlow · Keras · ResNet-50 · Transfer Learning**
+
+CNN classifier achieving **90% accuracy** on histopathological CT imagery via fine-tuned ResNet-50 transfer learning. Reduced training time by 35%; resolved class imbalance through OpenCV augmentation pipelines.
+
+---
+
+## 🏅 Certifications & Achievements
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🍎 **Apple Swift Student Challenge 2026** | Global Winner · ~350 selected worldwide |
+| 🇮🇳 **Smart India Hackathon 2024** | National Participant — GoI Flagship Hackathon |
+| ☁️ **Oracle Certified Professional** | Generative AI + AI Foundations Associate |
+| 🤖 **NVIDIA** | Fundamentals of Deep Learning |
+| 🤝 **Salesforce Certified** | Agentforce Specialist (AI) |
+| 📜 **Infosys Springboard** | AI Primer + Principles of Generative AI |
+| 💻 **HackerRank** | Java (Basic) Certified |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoryamishra61&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryamishra61&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoryamishra61&theme=tokyonight&hide_border=true)](https://github.com/shoryamishra61)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoryakumar-mishra)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smishra61)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/mishrashorya)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sm7078)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mishrashorya61)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoryamishra65@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1C1C2E,100:0A0A0A&height=100&section=footer" />
+
+*"Ship things that matter."*
+
+</div>
