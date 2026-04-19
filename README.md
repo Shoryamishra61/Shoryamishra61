@@ -79,7 +79,7 @@ Real-time neck posture detection using **AirPods sensor data** (3-axis head orie
 ### 🚗 Fleet Management System — Infosys 
 > **SwiftUI · REST APIs · Firebase · MVC Architecture**
 
-Full-featured fleet operations app with real-time vehicle tracking, driver assignment workflows, and route optimisation. Ranked **top 5 across all intern project submissions** at Infosys — praised for architecture, UI consistency, and feature depth. Shipped 3 production-ready features in a single sprint with **zero post-release defects**.
+Full-featured fleet operations app with real-time vehicle tracking, driver assignment workflows, and route optimisation. Ranked **top across all intern project submissions** at Infosys — praised for architecture, UI consistency, and feature depth. Shipped 3 production-ready features in a single sprint with **zero post-release defects**.
 
 ---
 
