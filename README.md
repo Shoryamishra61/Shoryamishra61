@@ -1,4 +1,4 @@
-> "Raise yourself by yourself; do not let yourself fall."
+"Raise yourself by yourself; do not let yourself fall."
 
 <!-- Apple Swift Student Challenge 2026 · Global Winner -->
 
