@@ -1,6 +1,9 @@
+> "Raise yourself by yourself; do not let yourself fall."
+
 <!-- Apple Swift Student Challenge 2026 · Global Winner -->
 
 # Shoryakumar Mishra
+
 
 ![Apple Swift Student Challenge 2026](https://img.shields.io/badge/Apple_Swift_Student_Challenge_2026-Global_Winner-black?style=for-the-badge&logo=apple)
 
