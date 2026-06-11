@@ -1,152 +1,101 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1C1C2E,100:0D1117&height=200&section=header&text=Shoryakumar%20Mishra&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Apple%20Swift%20Student%20Challenge%20Winner&descAlignY=58&descSize=16&descColor=A8B2D8" />
+# Shoryakumar Mishra
 
-</div>
-
----
-
-<div align="center">
-
-### 🏆 Apple Swift Student Challenge 2026 — Global Winner
-**Selected among ~350 winners worldwide** · Evaluated by Apple engineers for UI/UX, technical innovation & code quality
-
-[![Swift Student Challenge](https://img.shields.io/badge/Apple_Swift_Student_Challenge-2026_Winner-black?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/swift/playgrounds/)
+`AI/ML Research · LLM Systems · Computer Vision`
 
 </div>
 
 ---
 
-```
-> Building at the intersection of iOS, AI, and human experience.
-> From AirPods-powered posture detection to lung cancer classification —
-> I ship things that matter.
-```
+Building at the intersection of large language models, retrieval-augmented generation, and efficient inference — with peer-reviewed work on LLM semantic alignment and production systems deployed at scale.
+
+Apple Swift Student Challenge 2026 Global Winner (~350 / 50,000+). Currently at SRM Institute of Science and Technology (B.Tech CSE, 2027).
 
 ---
 
-## 👨‍💻 About Me
+## Research & Publications
 
-- 🍎 **iOS App Developer Intern** @ Infosys × Apple iOS Dev Center, SRMIST — top 4% of 2,000+ applicants
-- 🤖 **AI/ML Engineer Intern** @ Infosys Springboard — production ML pipelines & computer vision
-- 🎓 **B.Tech CSE** @ SRM Institute of Science and Technology, Chennai (2023–2027)
-- 🏅 **Smart India Hackathon 2024** — National Participant
-- 🦾 Currently building: production-grade iOS apps + deep learning systems
-- 📫 Reach me: **shoryamishra65@gmail.com**
+**DriftShield: Clinical Concept Drift & Multimodal RAG Pipeline** — *Peer-Reviewed Preprint*
+`Python · PyTorch · HuggingFace · BioBERT · FAISS · FastAPI`
+
+Published research on LLM semantic alignment in clinical settings. Designed a full RAG pipeline — section-aware chunking, BioBERT embeddings, FAISS vector indexing — to intercept temporal guideline drift in downstream clinical LLMs. Developed a safety-first max-ensemble (BioBERT + Qwen CoT) and a cross-attention multimodal CLIP fusion head. Achieved **97.8% sensitivity** and **88.5% specificity** on the ConflictMedQA-Extended benchmark. Automated MLOps telemetry using Kolmogorov-Smirnov tests and Population Stability Index for live distribution drift tracking via Weights & Biases.
 
 ---
 
-## 🛠 Tech Stack
+**Self-Pruning Neural Network with Learned Sparsity**
+`Python · PyTorch · NumPy · CUDA`
 
-### 📱 iOS & Mobile
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🤖 AI / ML / DL
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### ☁️ Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🖥 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+Designed a PrunableLinear layer with learnable sigmoid gates and L1 sparsity regularisation. Achieved **91.3% weight sparsity** (3.47M of 3.8M parameters pruned) with only **2.6% accuracy loss** on CIFAR-10 — yielding **11.5x parameter compression**. Validated through systematic ablation studies with fully reproducible training scripts. Direct applicability to on-device LLM inference and edge deployment.
 
 ---
 
-## 🚀 Featured Projects
+## Selected Work
 
-### 🍎 AXIS — Neck Posture Management App · *Apple Swift Student Challenge 2026 Winner*
-> **SwiftUI · HeadphoneMotionManager · CoreMotion · SwiftData**
+**GoblinGuard AI — Real-Time LLM Output Auditor**
+`Python · PyTorch · Transformers · Sentence-BERT · Streamlit`
 
-Real-time neck posture detection using **AirPods sensor data** (3-axis head orientation). Delivers live haptic/visual alerts and guided exercise sequences with motion-validated reps — **fully on-device, zero network latency**. Recognised by Apple among ~350 global winners for SwiftUI fluency and novel sensor API usage.
+RLHF reward-hacking detector inspired by OpenAI's GPT-5.5 "Goblin Incident". Fuses three ML detectors into a TicScore (0–100): n-gram scanner (lexical spikes), TicAutoencoder (embedding drift via reconstruction error), and a fine-tuned TicClassifier. Inputs embedded with Sentence-BERT (all-MiniLM-L6-v2, 384-dim). Detects reward-hacking artifacts that propagate silently through SFT data reuse into downstream models — critical for safety in medical AI and autonomous systems.
 
----
+**EvaGuardian — Real-Time Object Detection System**
+`Python · PyTorch · YOLOv8 · CUDA · OpenCV · FastAPI`
 
-### 🚗 Fleet Management System — Infosys 
-> **SwiftUI · REST APIs · Firebase · MVC Architecture**
+Trained custom YOLOv8 model on 2,500+ annotated images with CUDA-accelerated GPU training. Achieved **94% mAP@0.5 at 28 FPS** with modular inference pipeline, data augmentation (mosaic, mixup, HSV jitter), and structured FastAPI backend for real-world deployment.
 
-Full-featured fleet operations app with real-time vehicle tracking, driver assignment workflows, and route optimisation. Ranked **top across all intern project submissions** at Infosys — praised for architecture, UI consistency, and feature depth. Shipped 3 production-ready features in a single sprint with **zero post-release defects**.
+**OncoVision — Lung Cancer Detection CNN**
+`TensorFlow · Keras · ResNet-50 · OpenCV · Transfer Learning`
 
----
-
-### 🛸 Eva Guardian — Space Station Object Detection
-> **YOLOv8 · PyTorch · OpenCV · Python**
-
-Trained a YOLOv8 model on a custom-annotated space station dataset achieving **94% mAP**. Deployed a modular confidence-threshold-configurable inference pipeline for real-time astronaut safety workflows.
+Deep learning CNN achieving **90% accuracy** on histopathological CT scans via fine-tuned ResNet-50 transfer learning. Reduced training time by 35% through augmentation pipelines and class-imbalance correction — solving real-world large-scale medical imaging problems.
 
 ---
 
-### 🫁 OncoVision — Lung Cancer Detection
-> **TensorFlow · Keras · ResNet-50 · Transfer Learning**
+## Experience
 
-CNN classifier achieving **90% accuracy** on histopathological CT imagery via fine-tuned ResNet-50 transfer learning. Reduced training time by 35%; resolved class imbalance through OpenCV augmentation pipelines.
+**AI/ML Engineer Intern** · Infosys Springboard · Sep 2024 – Mar 2025
+
+Trained and deployed PyTorch models with Optuna/GridSearchCV hyperparameter optimisation and k-fold cross-validation; improved F1 by 12%. Built end-to-end automated data pipelines covering ingestion, feature engineering, training, and evaluation — reducing manual processing by 40%. Applied probability, statistics, and linear algebra to feature selection (PCA, mutual information), model diagnostics (bias-variance tradeoff, learning curves), and evaluation (precision, recall, AUC-ROC) on class-imbalanced datasets.
+
+**Software Engineer Intern, iOS & Systems** · Infosys × Apple · Apr 2025 – May 2026
+
+Selected in the top 4% (100 of 3,000+ applicants) for Apple's partnered engineering programme. Apple Swift Student Challenge 2026 Global Winner — built AXIS, a real-time sensor-driven app using CoreMotion API. Architected Rentiwise (live on App Store) with REST API pipeline, async/await networking, and in-memory caching — reducing data-fetch latency by 35% while sustaining 60fps UI performance.
+
+**iOS Developer Intern** · Infosys (Fleet Management) · Feb 2026 – Mar 2026
+
+Shipped Fleet Management System with real-time vehicle tracking, driver-assignment workflows, and live dashboards. Ranked **#1 company-wide** across all intern submissions. Delivered 3 production-ready features in 48 hours with zero post-release defects.
 
 ---
 
-## 🏅 Certifications & Achievements
+## Technical Profile
 
-| 🏆 Achievement | Details |
+| Domain | Stack |
 |---|---|
-| 🍎 **Apple Swift Student Challenge 2026** | Global Winner · ~350 selected worldwide |
-| 🇮🇳 **Smart India Hackathon 2024** | National Participant — GoI Flagship Hackathon |
-| ☁️ **Oracle Certified Professional** | Generative AI + AI Foundations Associate |
-| 🤖 **NVIDIA** | Fundamentals of Deep Learning |
-| 🤝 **Salesforce Certified** | Agentforce Specialist (AI) |
-| 📜 **Infosys Springboard** | AI Primer + Principles of Generative AI |
-| 💻 **HackerRank** | Java (Basic) Certified |
+| ML / DL | PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LightGBM, CUDA, SHAP, Optuna, W&B |
+| NLP / LLM | HuggingFace Transformers, LangChain, OpenAI API, LoRA/QLoRA, RLHF, spaCy |
+| CV & RAG | YOLOv8, OpenCV, FAISS, ChromaDB, Semantic Chunking, BERTScore, Vector Indexing |
+| Languages | Python (primary), C/C++, Java, SQL, Swift, JavaScript, Go, Bash, R |
+| Cloud & Tools | AWS (EC2, S3, SageMaker), Docker, Firebase, FastAPI, Git, CI/CD, Linux |
 
 ---
 
-## 📊 GitHub Stats
+## Certifications & Recognition
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoryamishra61&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryamishra61&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoryamishra61&theme=tokyonight&hide_border=true)](https://github.com/shoryamishra61)
-
-</div>
+- **Apple Swift Student Challenge 2026** — Global Winner (~350 / 50,000+ worldwide)
+- **AWS Certified AI Practitioner** · **AWS Certified ML Engineer – Associate**
+- **SAP Certified Generative AI Developer** · **NVIDIA: Fundamentals of Deep Learning**
+- **Oracle Certified Professional — Generative AI** · **Salesforce Agentforce Specialist (AI)**
+- **Guidewire Hackathon** — Top 6 / 5,000+ teams · **Google Code Clash 2.0** — Top 13 / 1,300+ teams
+- **Smart India Hackathon 2024** — National Participant (Gov. of India)
 
 ---
 
-## 🤝 Connect With Me
+## Community
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoryakumar-mishra)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smishra61)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/mishrashorya)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sm7078)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mishrashorya61)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoryamishra65@gmail.com)
-
-</div>
+- **AI Research Communicator (X/Twitter):** Authored 200+ technical breakdowns of NLP/ML papers — LLMs, Computer Vision, Mechanistic Interpretability, RL — tracking frontier AI research.
+- **Associate Head, Content, Placfv's:** Led placement communications for 50+ enterprise recruiters.
+- **Committee Head, Aaruush (SRM):** Managed logistics and cross-team coordination for one of India's largest national-level tech festivals.
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1C1C2E,100:0A0A0A&height=100&section=footer" />
-
-*"Ship things that matter."*
-
-</div>
+<p align="center">
+<a href="mailto:shoryamishra65@gmail.com">Email</a> · <a href="https://linkedin.com/in/shoryakumar-mishra">LinkedIn</a> · <a href="https://twitter.com/smishra61">X / Twitter</a> · <a href="https://github.com/Shoryamishra61">GitHub</a> · <a href="https://leetcode.com/mishrashorya">LeetCode</a> · <a href="https://codeforces.com/profile/mishrashorya61">Codeforces</a>
+</p>
