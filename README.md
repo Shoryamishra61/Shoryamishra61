@@ -2,17 +2,18 @@
 
 # Shoryakumar Mishra
 
-![Apple Swift Student Challenge](https://img.shields.io/badge/%F0%9F%8D%8E%20Apple_Swift_Student_Challenge_2026-Global_Winner_%E2%88%BC350_of_50k%2B-black?style=flat-square)
-![AI/ML Research](https://img.shields.io/badge/AI%2FML_Research-gray?style=flat-square)
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-gray?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-gray?style=flat-square)
+![Apple Swift Student Challenge 2026](https://img.shields.io/badge/Apple_Swift_Student_Challenge_2026-Global_Winner-black?style=for-the-badge&logo=apple)
+
+![AI/ML Research](https://img.shields.io/badge/AI%2FML_Research-lightgrey?style=flat-square)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-lightgrey?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-lightgrey?style=flat-square)
 
 Machine learning engineer focused on LLM alignment, concept drift detection,
 and on-device inference. B.Tech CSE · SRMIST Chennai · 2023–2027.
 
 [shoryamishra65@gmail.com](mailto:shoryamishra65@gmail.com) · 
 [linkedin](https://linkedin.com/in/shoryakumar-mishra) · 
-[@SMishra61](https://twitter.com/SMishra61)
+[X/twitter](https://twitter.com/SMishra61)
 
 ---
 
