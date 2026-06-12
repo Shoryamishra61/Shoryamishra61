@@ -7,9 +7,9 @@
 
 ![Apple Swift Student Challenge 2026](https://img.shields.io/badge/Apple_Swift_Student_Challenge_2026-Global_Winner-black?style=for-the-badge&logo=apple)
 
-![AI/ML Research](https://img.shields.io/badge/AI%2FML_Research-lightgrey?style=flat-square)
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-lightgrey?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-lightgrey?style=flat-square)
+![AI/ML Research](https://img.shields.io/badge/AI%2FML_Research-black?style=flat-square)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-grey?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-grey?style=flat-square)
 
 Machine learning engineer focused on LLM alignment, concept drift detection,
 and on-device inference. B.Tech CSE · SRMIST Chennai · 2023–2027.
