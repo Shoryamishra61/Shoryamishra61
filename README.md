@@ -123,3 +123,7 @@ Publish technical breakdowns of NLP and ML research papers on [X/Twitter](https:
 ---
 
 *Open to research collaborations, internships, and full-time roles in ML engineering and applied AI.*
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShoryaMishra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
