@@ -122,22 +122,15 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-19-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-11-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-8-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-3-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-28-6e7781?style=flat-square&logo=github)
 
-> Public upstream contributions · automatically updated · repositories ranked by current GitHub stars
+> Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.4k | 1 | 0 | 1 | 1 | 0 | 🟡 [#196873](https://github.com/pytorch/pytorch/pull/196873) — [inductor] Handle full randperm in index_add pattern |
+| [apache/hamilton](https://github.com/apache/hamilton) | ⭐ 2.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#1716](https://github.com/apache/hamilton/pull/1716) — fix(caching): avoid storing metadata and results for CachingBehavior.IG… |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | ⭐ 40.8k | 1 | 0 | 1 | 2 | 0 | 🟡 [#225370](https://github.com/llvm/llvm-project/pull/225370) — [mlir][async] Clamp per-axis trip counts in async-parallel-for |
 | [pola-rs/polars](https://github.com/pola-rs/polars) | ⭐ 39.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#29361](https://github.com/pola-rs/polars/pull/29361) — fix: Preserve timezone offsets when reading JSON datetimes |
 | [jax-ml/jax](https://github.com/jax-ml/jax) | ⭐ 36.4k | 1 | 0 | 1 | 1 | 0 | 🟡 [#40821](https://github.com/jax-ml/jax/pull/40821) — jax.scipy.linalg.solve: raise NotImplementedError for assume_a in ('sym… |
-| [scipy/scipy](https://github.com/scipy/scipy) | ⭐ 15.0k | 1 | 0 | 1 | 2 | 0 | 🟡 [#25826](https://github.com/scipy/scipy/pull/25826) — TST: special: fix mpmath branch selection in test_legenq |
-| [Kludex/starlette](https://github.com/Kludex/starlette) | ⭐ 12.6k | 1 | 0 | 1 | 3 | 0 | 🟡 [#3581](https://github.com/Kludex/starlette/pull/3581) — Preserve // paths in authority-less request URLs |
-| [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.4k | 2 | 0 | 2 | 2 | 0 | 🟡 [#25647](https://github.com/apache/datafusion/pull/25647) — fix: propagate projection benefit through extension nodes in OptimizePr…<br>🟡 [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi… |
-| [apache/hamilton](https://github.com/apache/hamilton) | ⭐ 2.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#1716](https://github.com/apache/hamilton/pull/1716) — fix(caching): avoid storing metadata and results for CachingBehavior.IG… |
-| [hongjin-he/MicroWorld](https://github.com/hongjin-he/MicroWorld) | ⭐ 511 | 2 | 2 | 0 | 2 | 1 | ✅ [#3](https://github.com/hongjin-he/MicroWorld/pull/3) — fix: correct merger premium indexing, crisis correlation loss, and nois…<br>✅ [#12](https://github.com/hongjin-he/MicroWorld/pull/12) — Update requirements.txt |
-| [pandas-dev/pandas-stubs](https://github.com/pandas-dev/pandas-stubs) | ⭐ 327 | 1 | 1 | 0 | 1 | 1 | ✅ [#1949](https://github.com/pandas-dev/pandas-stubs/pull/1949) — TYP: support 2D subset selectors for Styler |
-| [wwdc/2026](https://github.com/wwdc/2026) | ⭐ 42 | 2 | 2 | 0 | 2 | 0 | ✅ [#61](https://github.com/wwdc/2026/pull/61) — Update project template with user details<br>✅ [#63](https://github.com/wwdc/2026/pull/63) — Update GitHub source URL in shoryakumarmishra.md |
-| [ATG-AVI/Ochima](https://github.com/ATG-AVI/Ochima) | ⭐ 0 | 5 | 5 | 0 | 8 | 0 | ✅ [#18](https://github.com/ATG-AVI/Ochima/pull/18) — Refactor Fleet Manager UI: move profile to header and removal from tab…<br>✅ [#20](https://github.com/ATG-AVI/Ochima/pull/20) — Refined Fleet Manager UI for Vehicles and Workflow tabs with iOS native… |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 

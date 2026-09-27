@@ -31,6 +31,8 @@ END = "<!-- OSS-AUTO:END -->"
 EXCLUDE_OWN_REPOSITORIES = True
 INCLUDE_CLOSED_UNMERGED = False
 MAX_HIGHLIGHTS_PER_REPO = 2
+MAX_REPOSITORIES = 5
+MERGED_WEIGHT_MULTIPLIER = 18.0
 
 GRAPHQL_URL = "https://api.github.com/graphql"
 
@@ -203,10 +205,14 @@ def build_section(prs: list[dict]) -> str:
 
         grouped[name]["prs"].append(pr)
 
+    def repo_rank_score(item: dict) -> float:
+        merged_count = sum(1 for pr in item["prs"] if pr.get("mergedAt"))
+        return item["stars"] * (1.0 + MERGED_WEIGHT_MULTIPLIER * merged_count)
+
     repositories = sorted(
         grouped.values(),
-        key=lambda item: (-item["stars"], item["name"].lower()),
-    )
+        key=lambda item: (-repo_rank_score(item), item["name"].lower()),
+    )[:MAX_REPOSITORIES]
 
     total_prs = len(prs)
     merged_prs = sum(1 for pr in prs if pr.get("mergedAt"))
@@ -238,8 +244,8 @@ def build_section(prs: list[dict]) -> str:
         ),
         "",
         (
-            "> Public upstream contributions · automatically updated · "
-            "repositories ranked by current GitHub stars"
+            f"> Top {len(repositories)} upstream contributions · "
+            "ranked by stars with merged PR weightage · automatically updated"
         ),
         "",
         (
