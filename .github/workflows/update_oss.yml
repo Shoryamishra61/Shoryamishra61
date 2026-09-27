@@ -1,0 +1,44 @@
+name: Update OSS Contributions
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # 06:00 IST every day
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate OSS contribution section
+        env:
+          GH_TOKEN: ${{ secrets.OSS_STATS_TOKEN || github.token }}
+          OSS_GITHUB_USER: Shoryamishra61
+        run: python scripts/update_oss.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "README already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "docs: refresh OSS contribution stats"
+          git push
