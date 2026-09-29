@@ -126,7 +126,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.4k | 1 | 0 | 1 | 1 | 0 | 🟡 [#196873](https://github.com/pytorch/pytorch/pull/196873) — [inductor] Handle full randperm in index_add pattern |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.5k | 1 | 0 | 1 | 1 | 0 | 🟡 [#196873](https://github.com/pytorch/pytorch/pull/196873) — [inductor] Handle full randperm in index_add pattern |
 | [apache/hamilton](https://github.com/apache/hamilton) | ⭐ 2.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#1716](https://github.com/apache/hamilton/pull/1716) — fix(caching): avoid storing metadata and results for CachingBehavior.IG… |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | ⭐ 40.8k | 1 | 0 | 1 | 2 | 0 | 🟡 [#225370](https://github.com/llvm/llvm-project/pull/225370) — [mlir][async] Clamp per-axis trip counts in async-parallel-for |
 | [pola-rs/polars](https://github.com/pola-rs/polars) | ⭐ 39.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#29361](https://github.com/pola-rs/polars/pull/29361) — fix: Preserve timezone offsets when reading JSON datetimes |
