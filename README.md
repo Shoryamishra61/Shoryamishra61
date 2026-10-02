@@ -120,13 +120,13 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 <!-- OSS-AUTO:START -->
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-21-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-11-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-10-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-3-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-30-6e7781?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-22-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-11-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-11-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-3-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-32-6e7781?style=flat-square&logo=github)
 
 > Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.6k | 2 | 0 | 2 | 2 | 0 | 🟡 [#196873](https://github.com/pytorch/pytorch/pull/196873) — [inductor] Handle full randperm in index_add pattern<br>🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.6k | 3 | 0 | 3 | 4 | 0 | 🟡 [#196873](https://github.com/pytorch/pytorch/pull/196873) — [inductor] Handle full randperm in index_add pattern<br>🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates |
 | [apache/hamilton](https://github.com/apache/hamilton) | ⭐ 2.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#1716](https://github.com/apache/hamilton/pull/1716) — fix(caching): avoid storing metadata and results for CachingBehavior.IG… |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | ⭐ 40.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#225370](https://github.com/llvm/llvm-project/pull/225370) — [mlir][async] Clamp per-axis trip counts in async-parallel-for |
 | [pola-rs/polars](https://github.com/pola-rs/polars) | ⭐ 39.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#29361](https://github.com/pola-rs/polars/pull/29361) — fix: Preserve timezone offsets when reading JSON datetimes |
