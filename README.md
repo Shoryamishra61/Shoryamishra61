@@ -129,8 +129,8 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 | [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.8k | 2 | 0 | 2 | 3 | 0 | 🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates<br>🟡 [#199307](https://github.com/pytorch/pytorch/pull/199307) — [test] Add error_inputs for nn.Linear module |
 | [apache/hamilton](https://github.com/apache/hamilton) | ⭐ 2.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#1716](https://github.com/apache/hamilton/pull/1716) — fix(caching): avoid storing metadata and results for CachingBehavior.IG… |
+| [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 41.9k | 1 | 0 | 1 | 1 | 0 | 🟡 [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | ⭐ 40.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#225370](https://github.com/llvm/llvm-project/pull/225370) — [mlir][async] Clamp per-axis trip counts in async-parallel-for |
-| [pola-rs/polars](https://github.com/pola-rs/polars) | ⭐ 39.9k | 1 | 0 | 1 | 2 | 0 | 🟡 [#29361](https://github.com/pola-rs/polars/pull/29361) — fix: Preserve timezone offsets when reading JSON datetimes |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
