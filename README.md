@@ -120,7 +120,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 <!-- OSS-AUTO:START -->
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-26-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-14-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-12-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-38-6e7781?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-27-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-14-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-13-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-41-6e7781?style=flat-square&logo=github)
 
 > Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
@@ -130,7 +130,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 | [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | ⭐ 7.3k | 1 | 1 | 0 | 1 | 1 | ✅ [#1686](https://github.com/modelcontextprotocol/registry/pull/1686) — fix(ui): keep search above recently updated servers |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 103.9k | 2 | 0 | 2 | 3 | 0 | 🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates<br>🟡 [#199307](https://github.com/pytorch/pytorch/pull/199307) — [test] Add error_inputs for nn.Linear module |
-| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ⭐ 50.3k | 1 | 0 | 1 | 1 | 0 | 🟡 [#124443](https://github.com/ClickHouse/ClickHouse/pull/124443) — Fix input-order dependency in windowFunnel with strict_deduplication an… |
+| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ⭐ 50.3k | 2 | 0 | 2 | 4 | 0 | 🟡 [#124443](https://github.com/ClickHouse/ClickHouse/pull/124443) — Fix input-order dependency in windowFunnel with strict_deduplication an…<br>🟡 [#124643](https://github.com/ClickHouse/ClickHouse/pull/124643) — Fix compression-aware schema caching for file and URL reads |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
