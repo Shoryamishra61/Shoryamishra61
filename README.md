@@ -121,7 +121,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 <!-- OSS-AUTO:START -->
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-29-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-16-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-51-6e7781?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-29-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-16-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-50-6e7781?style=flat-square&logo=github)
 
 > Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
@@ -131,7 +131,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 | [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.6k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.4k | 2 | 1 | 1 | 2 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi…<br>🟡 [#25647](https://github.com/apache/datafusion/pull/25647) — fix: propagate projection benefit through extension nodes in OptimizePr… |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | ⭐ 7.3k | 1 | 1 | 0 | 1 | 1 | ✅ [#1686](https://github.com/modelcontextprotocol/registry/pull/1686) — fix(ui): keep search above recently updated servers |
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 104.6k | 2 | 0 | 2 | 3 | 0 | 🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates<br>🟡 [#199307](https://github.com/pytorch/pytorch/pull/199307) — [test] Add error_inputs for nn.Linear module |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | ⭐ 104.8k | 2 | 0 | 2 | 3 | 0 | 🟡 [#199149](https://github.com/pytorch/pytorch/pull/199149) — [autograd] Error on double backward through saved intermediates<br>🟡 [#199307](https://github.com/pytorch/pytorch/pull/199307) — [test] Add error_inputs for nn.Linear module |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
