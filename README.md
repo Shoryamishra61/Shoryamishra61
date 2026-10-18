@@ -121,7 +121,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 <!-- OSS-AUTO:START -->
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-39-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-26-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-66-6e7781?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-39-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-26-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-64-6e7781?style=flat-square&logo=github)
 
 > Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
