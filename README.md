@@ -121,17 +121,17 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 <!-- OSS-AUTO:START -->
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-43-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-30-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-80-6e7781?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-44-0969da?style=flat-square&logo=github) ![Merged PRs](https://img.shields.io/badge/Merged%20PRs-13-2ea44f?style=flat-square&logo=github) ![Open PRs](https://img.shields.io/badge/Open%20PRs-31-d29922?style=flat-square&logo=github) ![Issues Solved](https://img.shields.io/badge/Issues%20Solved-5-8250df?style=flat-square&logo=github) ![PR Commits](https://img.shields.io/badge/PR%20Commits-83-6e7781?style=flat-square&logo=github)
 
 > Top 5 upstream contributions · ranked by stars with merged PR weightage · automatically updated
 
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 42.6k | 1 | 1 | 0 | 1 | 0 | ✅ [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
-| [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.7k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
+| [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.8k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.5k | 2 | 1 | 1 | 2 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi…<br>🟡 [#25647](https://github.com/apache/datafusion/pull/25647) — fix: propagate projection benefit through extension nodes in OptimizePr… |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | ⭐ 7.4k | 1 | 1 | 0 | 1 | 1 | ✅ [#1686](https://github.com/modelcontextprotocol/registry/pull/1686) — fix(ui): keep search above recently updated servers |
-| [golang/go](https://github.com/golang/go) | ⭐ 139.6k | 1 | 0 | 1 | 1 | 0 | 🟡 [#82185](https://github.com/golang/go/pull/82185) — net/http: avoid retrying closed HTTP/2 request bodies |
+| [golang/go](https://github.com/golang/go) | ⭐ 139.5k | 1 | 0 | 1 | 1 | 0 | 🟡 [#82185](https://github.com/golang/go/pull/82185) — net/http: avoid retrying closed HTTP/2 request bodies |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
