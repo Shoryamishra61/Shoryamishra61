@@ -128,9 +128,9 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 42.9k | 1 | 1 | 0 | 1 | 0 | ✅ [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
-| [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.8k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
+| [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 14.9k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.6k | 1 | 1 | 0 | 1 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi… |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 168.6k | 1 | 0 | 1 | 5 | 0 | 🟡 [#50466](https://github.com/huggingface/transformers/pull/50466) — fix(quantization): preserve dense converters in mixed compressed-tensor… |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 168.7k | 1 | 0 | 1 | 5 | 0 | 🟡 [#50466](https://github.com/huggingface/transformers/pull/50466) — fix(quantization): preserve dense converters in mixed compressed-tensor… |
 | [conda/conda](https://github.com/conda/conda) | ⭐ 7.6k | 1 | 1 | 0 | 5 | 1 | ✅ [#16849](https://github.com/conda/conda/pull/16849) — Fix version ordering in conda search |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
