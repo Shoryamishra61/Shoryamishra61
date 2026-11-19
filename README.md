@@ -127,11 +127,11 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 
 | Repository | Stars | PRs | Merged | Open | PR Commits | Issues Solved | What I changed |
 |---|---:|---:|---:|---:|---:|---:|---|
-| [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 43.1k | 1 | 1 | 0 | 1 | 0 | ✅ [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
+| [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 43.2k | 1 | 1 | 0 | 1 | 0 | ✅ [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
 | [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) | ⭐ 18.9k | 1 | 1 | 0 | 3 | 1 | ✅ [#14947](https://github.com/bytecodealliance/wasmtime/pull/14947) — cranelift: handle interrupt_poll in inliner and emit stack map at fault… |
 | [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 15.0k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
 | [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.6k | 1 | 1 | 0 | 1 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi… |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 169.3k | 1 | 0 | 1 | 5 | 0 | 🟡 [#50466](https://github.com/huggingface/transformers/pull/50466) — fix(quantization): preserve dense converters in mixed compressed-tensor… |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 169.2k | 1 | 0 | 1 | 5 | 0 | 🟡 [#50466](https://github.com/huggingface/transformers/pull/50466) — fix(quantization): preserve dense converters in mixed compressed-tensor… |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
