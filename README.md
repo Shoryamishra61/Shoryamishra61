@@ -131,7 +131,7 @@ AWS Certified AI Practitioner · AWS Certified ML Engineer – Associate · NVID
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | ⭐ 43.3k | 1 | 1 | 0 | 1 | 0 | ✅ [#26469](https://github.com/duckdb/duckdb/pull/26469) — Fix #26433: Do not drop filter when LIKE/ILIKE pattern is NULL |
 | [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) | ⭐ 18.9k | 1 | 1 | 0 | 3 | 1 | ✅ [#14947](https://github.com/bytecodealliance/wasmtime/pull/14947) — cranelift: handle interrupt_poll in inliner and emit stack map at fault… |
 | [amir20/dozzle](https://github.com/amir20/dozzle) | ⭐ 15.0k | 1 | 1 | 0 | 2 | 1 | ✅ [#5335](https://github.com/amir20/dozzle/pull/5335) — fix(logs): detect Fail2ban log levels correctly |
-| [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.6k | 1 | 1 | 0 | 1 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi… |
+| [apache/datafusion](https://github.com/apache/datafusion) | ⭐ 9.7k | 1 | 1 | 0 | 1 | 1 | ✅ [#25475](https://github.com/apache/datafusion/pull/25475) — fix: preserve null treatment when unparsing window and aggregate functi… |
 
 [View all pull requests](https://github.com/pulls?q=is%3Apr+author%3AShoryamishra61) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AShoryamishra61)
 
